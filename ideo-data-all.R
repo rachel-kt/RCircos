@@ -8,6 +8,7 @@ install.packages("RCircos")
 # "Stain" - junk value since Stain is a requisite column but we dont have data for it
 
 # required file 2. band colour data -  containing colours for depicting bands  
+# one column of colours for species alternating with "white" to depict the gene position.
 
 # required file 3. gene data with following coloumns 
 # "Chromosome" 
